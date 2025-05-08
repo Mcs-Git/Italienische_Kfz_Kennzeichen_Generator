@@ -15,7 +15,7 @@ anzahl_ziffern = 1000 # Zahlen von 000 bis 999
 #Ziel-Hashwerte, nach denen später gesucht wird (SHA-256 Werte)
 such_liste = ["c7fbd00442a86fc08866daa438ec2a546e006c26d11d1750516f04ea9bc36586",
               "f1eb03bef14a79da6fb8561413f02cf5dec836bdeb3f1faf35c2a1c39581a5c1",
-              "abd12f05e5626012b5b5d70a77f2fc3d786ee2dafc17e11741b99ad31fc7eb79",
+              "abd12f05e5626012b5b5d70a77f2fc3d786ee2dafc17e11741b99ad31fc7eb79"
               ]
 
 # -----------------------------
